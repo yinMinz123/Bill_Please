@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="display">Display</string>
+    <string name="enter">Enter Something</string>
+    <string name="display_what_user_enter">Display What User Enter</string>
+
+</resources>
